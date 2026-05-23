@@ -1,6 +1,7 @@
 # Python-Automatic-File-Sorter
 
-Python code can be used to automatically sort files based on various criteria such as file type, date modified, or file name. This can save time and effort in organizing large collections of files.
+Automatic File Sorter in File Explorer is a Python-based automation project that organizes files into separate folders based on their file types, date modified, or file name. The program scans a selected directory and automatically moves documents, images, videos, music, and other files into categorized folders, helping keep the workspace clean and organized. It improves productivity by reducing manual file management and demonstrates practical use of Python modules such as os and shutil for file handling and automation.
+
 
 # Input
 
